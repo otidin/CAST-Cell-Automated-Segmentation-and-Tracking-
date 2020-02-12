@@ -3,4 +3,7 @@
 
 
 ## Segmentation output
+![segmentation](https://github.com/otidin/CAST-Cell-Automated-Segmentation-and-Tracking-/blob/master/10.png)
+
+
 
