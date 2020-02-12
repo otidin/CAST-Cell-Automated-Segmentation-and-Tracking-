@@ -1,4 +1,2 @@
 # CAST-Cell-Automated-Segmentation-and-Tracking-
-
-![Alt Text](https://github.com/otidin/CAST-Cell-Automated-Segmentation-and-Tracking-.git/all.gif)
-
+![all](https://user-images.githubusercontent.com/13536091/74332724-afe9f500-4d96-11ea-8b69-44f8ff38bc3c.gif)
